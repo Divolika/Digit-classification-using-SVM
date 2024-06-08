@@ -1,7 +1,3 @@
-Certainly! Here's a detailed description for a GitHub README file explaining digit classification using SVM algorithm:
-
----
-
 # Digit Classification using SVM Algorithm
 
 This repository contains Python code demonstrating digit classification using the Support Vector Machine (SVM) algorithm in machine learning. The code utilizes the popular scikit-learn library for SVM implementation and pandas for data manipulation.
