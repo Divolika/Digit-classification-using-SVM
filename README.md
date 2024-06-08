@@ -55,10 +55,3 @@ The script will display a confusion matrix and accuracy score, providing insight
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file according to your specific project details and preferences.
